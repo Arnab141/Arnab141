@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Arnab Pramanik
 
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHxj4_OOjShbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722489734561?e=1745452800&v=beta&t=T3gw1cmuXU5sGMFOxn5L47jS9ChW8PC5kMdwVVoT904)
+
 🚀 **Passionate Full Stack Developer** | MERN Stack | Solving DSA 🔥 | Building Scalable Web Apps 💻
 
 ---
@@ -7,10 +9,10 @@
 ## 🚀 About Me
 
 - 🎓 3rd-year B.E. CSE student at Chitkara University, Himachal.
-- 🏗️ Developing scalable web applications using the **MERN Stack**.
+- 🏷️ Developing scalable web applications using the **MERN Stack**.
 - 💡 Passionate about **Full Stack development** and **problem-solving**.
 - 🔥 Solved **200+ problems** on **LeetCode** and **GeeksforGeeks**.
-- 📜 Certified in **React** and **JavaScript** from **HackerRank**.
+- 📝 Certified in **React** and **JavaScript** from **HackerRank**.
 - 🌱 Currently learning **advanced backend architecture & system design**.
 
 ---
@@ -52,7 +54,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 👯️ Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnabpramanik43/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Arnab141)
@@ -60,4 +62,4 @@
 
 ---
 
-⭐ **Star this repo** if you like my profile! 😊
+🌟 **Star this repo** if you like my profile! 😊
