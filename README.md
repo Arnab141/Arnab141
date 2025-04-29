@@ -1,5 +1,5 @@
 
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHxj4_OOjShbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722489734561?e=1745452800&v=beta&t=T3gw1cmuXU5sGMFOxn5L47jS9ChW8PC5kMdwVVoT904)
+
 
 # Hi there! 👋 I'm Arnab Pramanik
 
